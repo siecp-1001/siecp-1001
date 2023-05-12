@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siecp-1001
-- 👀 I’m interested in cyber security und machine Learning
+- 👀 I’m interested in cyber security , machine Learning and webdevelopment 
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eerabo748@gmail.com
